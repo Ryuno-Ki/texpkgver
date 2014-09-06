@@ -12,4 +12,7 @@ as first argument and the script will search for the installed version.
 
 # Dependencies
 
+ * `awk`
+ * `echo`
  * `find`
+ * `grep`
